@@ -8,4 +8,5 @@ This will be used to calculate fugacities.
 
 But I also made a change.
 I see!
->>>>>>> b1aa50a2a5da9c41c390a9f523c9ceac9376cfe9
+
+nice!
